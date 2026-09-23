@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @rosearerosie11
-- 👀 I’m interested in wealthy.
-- 🌱 I’m currently learning high school
-- 💞️ I’m looking to collaborate on a program with google
-- 📫 How to reach me you can't reach me 
+- 👋 Hi, I’m Elena
+- 👀 I’m interested in food, cybersecurity, AI, and data analysis
+- 🌱 I’m currently in high school
+- 💞️ I’m looking to collaborate on a program with Google
+- 📫 How to reach me, you can't reach me 
 - 😄 Pronouns: she
-- ⚡ Fun fact: i'm funny lol
+- ⚡ Fun fact: I'm funny
 
 <!---
 rosearerosie11/rosearerosie11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
